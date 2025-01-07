@@ -2,13 +2,16 @@
 
 Welcome to my GitHub homepage! Here you can find information about me and my projects!
 
+
 Table of Contents
 Welcome to My GitHub Homepage!
 Table of Contents
 About Me
 Projects
 Tools
+
 Contact Me
+
 About Me
 Highly motivated Data Scientist with more than 2 years of experience leveraging machine learning and data analysis to solve complex business problems. Proven ability to collaborate with cross-functional teams and translate data insights into actionable recommendations. Passionate about using data to drive product innovation and business growth.
 I have a strong background in Engineering and HVAC Systems.
