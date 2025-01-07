@@ -53,6 +53,6 @@ Looker
 Contact Me
 Have a question, suggestion, or just want to say hello? Feel free to reach out to me! You can contact me via email or LinkedIn.
 
-Email: moataz.imad.me@gmail.com,
-LinkedIn: linkedin.com/in/Al-Moataz-Imad/
+Email:nikhilbiradar2311@gmail.com ,
+LinkedIn:https://in.linkedin.com/in/nikhil-s-b-5161511a4
 Thank you for visiting my GitHub homepage!
